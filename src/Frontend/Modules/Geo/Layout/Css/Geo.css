@@ -1,0 +1,8 @@
+.loader {
+    position: absolute;
+    display: block;
+    background: url('../images/loader.gif') no-repeat center center;
+    width: 34px;
+    height: 34px;
+    z-index: 1;
+}

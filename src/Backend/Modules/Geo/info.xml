@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>Geo</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>3.9.0</minimum_version>
+        <module>
+            <name>Geo</name>
+            <minimum_version>1.0.0</minimum_version>
+        </module>
+	</requirements>
+	<description>
+		<![CDATA[
+			Geo
+		]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Vytenis Ščiukas]]></name>
+			<url><![CDATA[http://www.vytsci.lt]]></url>
+		</author>
+	</authors>
+	<events>
+	</events>
+</module>
